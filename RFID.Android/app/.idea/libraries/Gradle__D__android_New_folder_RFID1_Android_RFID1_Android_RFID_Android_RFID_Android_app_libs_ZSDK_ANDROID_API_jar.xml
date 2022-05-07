@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: D./android/New folder/RFID1.Android/RFID1.Android/RFID.Android/RFID.Android/app/libs/ZSDK_ANDROID_API.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/ZSDK_ANDROID_API.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
